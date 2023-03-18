@@ -1,0 +1,6 @@
+langchain==0.0.82
+openai
+unstructured
+faiss-cpu==1.7.3
+gradio
+sentence-transformers
